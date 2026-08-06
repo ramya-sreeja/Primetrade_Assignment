@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -73,3 +74,22 @@ export default defineConfig([
 ])
 
 ```
+=======
+# Primetrade AI Assignment
+
+# Project Title
+Bitcoin Market Sentiment vs Trader Performance Analysis
+
+# Objective
+This project analyzes the relationship between Bitcoin market sentiment (Fear & Greed Index) and trader performance using historical Hyperliquid trading data.
+
+# Tools Used
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+
+# Author
+Kanisetti Ramya Sreeja
+>>>>>>> 516fd93f74214f2729e8ccff55cb520ccb67be2c
